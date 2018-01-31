@@ -1,7 +1,11 @@
-# a = (x for x in range(10))
+def generator():
+    for i in range(10000000000000):
+        for j in (2,3):
+            yield i*j
 
-a1 = 1
-a2 = 1
-while a2 < 100:
-    print(a2)
-    a2 += a1
+a = generator()
+
+print(next(a))
+print(last)#呵呵
+print(next(a))
+print(next(a))
