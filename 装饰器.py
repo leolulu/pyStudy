@@ -1,20 +1,42 @@
-def w1():
-    def inner(whotodiao):
-        if (whotodiao == "f1"):
-            f1()
-        if (whotodiao == "f2"):
-            f2()
-
+'''def w1(func):
+    def inner():
+        func()
     return inner
+def f1():
+    print("----f1------")
+def f2():
+    print("-----f2-----")
+innerFunc = w1(f1)
+innerFunc()'''
+
+'''def 专门给已有函数添加附加功能的函数(传进来的函数):
+    def 临时加工函数():
+        print("---通用前置功能-----")
+        传进来的函数()
+        print("---通用后置功能-----")
+    return 临时加工函数
+def f1():
+    print("----f1------")
+def f2():
+    print("-----f2-----")
+f2 = 专门给已有函数添加附加功能的函数(f2)
+f2()'''
 
 
+def 专门给已有函数添加附加功能的函数(传进来的函数):
+    def 临时加工函数():
+        print("---通用前置功能-----")
+        传进来的函数()
+        print("---通用后置功能-----")
+
+    return 临时加工函数
+
+@专门给已有函数添加附加功能的函数
 def f1():
     print("----f1------")
 
-
+@专门给已有函数添加附加功能的函数
 def f2():
     print("-----f2-----")
 
-
-innerFunc = w1()
-innerFunc("f1")
+f2()
