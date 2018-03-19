@@ -1,12 +1,6 @@
-def random_num_sum(a, b, *any_num):
-    """不定长数量加数相加
+def unlimit_num(*args):
+    for i in args:
+        print(i)
 
-    具体使用方法"""
-    print(a + b + sum(any_num))
 
-# random_num_sum(1)
-random_num_sum(1, 2)
-random_num_sum(1, 2, 3)
-random_num_sum(1, 2, 3, 4)
-
-help(random_num_sum)
+unlimit_num(*[1, 2, 3])
