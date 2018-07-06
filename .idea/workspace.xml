@@ -14,17 +14,17 @@
       <file leaf-file-name="装饰器.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/装饰器.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
+            <state relative-caret-position="697">
               <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="不定长参数函数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="不定长参数函数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/不定长参数函数.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="85">
               <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
@@ -36,6 +36,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="读取剪贴板.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/读取剪贴板.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -96,12 +106,13 @@
         <option value="$PROJECT_DIR$/装饰器.py" />
         <option value="$PROJECT_DIR$/装饰器2.py" />
         <option value="$PROJECT_DIR$/不定长参数函数.py" />
+        <option value="$PROJECT_DIR$/读取剪贴板.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
-    <option name="y" value="112" />
+    <option name="x" value="316" />
+    <option name="y" value="104" />
     <option name="width" value="1427" />
     <option name="height" value="852" />
   </component>
@@ -142,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +164,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.不定长参数函数">
+  <component name="RunManager" selected="Python.读取剪贴板">
     <configuration name="装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,6 +252,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hellowolrld" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/解决群里问题3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="读取剪贴板" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hellowolrld" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/读取剪贴板.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,11 +490,11 @@
       <item index="0" class="java.lang.String" itemvalue="Python.解决群里问题2" />
       <item index="1" class="java.lang.String" itemvalue="Python.解决群里问题3" />
       <item index="2" class="java.lang.String" itemvalue="Python.装饰器" />
-      <item index="3" class="java.lang.String" itemvalue="Python.不定长参数函数" />
+      <item index="3" class="java.lang.String" itemvalue="Python.读取剪贴板" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.不定长参数函数" />
+        <item index="0" class="java.lang.String" itemvalue="Python.读取剪贴板" />
         <item index="1" class="java.lang.String" itemvalue="Python.装饰器" />
         <item index="2" class="java.lang.String" itemvalue="Python.解决群里问题3" />
         <item index="3" class="java.lang.String" itemvalue="Python.解决群里问题2" />
@@ -479,7 +508,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="112" width="1427" height="852" extended-state="0" />
+    <frame x="316" y="104" width="1427" height="852" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20806335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -509,7 +538,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/function1.py" />
     <entry file="file://$PROJECT_DIR$/function_param.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -817,7 +845,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/装饰器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
+        <state relative-caret-position="697">
           <caret line="41" column="2" lean-forward="false" selection-start-line="41" selection-start-column="2" selection-end-line="41" selection-end-column="2" />
           <folding />
         </state>
@@ -825,7 +853,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/不定长参数函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="85">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
@@ -835,6 +863,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/读取剪贴板.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
